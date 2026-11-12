@@ -1,0 +1,6 @@
+{
+  "name": "سبحة العداد الأسطواني",
+  "description": "سبحة إلكترونية متكاملة بعداد أسطواني كقفل الحقيبة، تشمل تسبيح الزهراء عليها السلام، والتسبيح المفتوح التصاعدي والتنازلي مع تنبيهات واهتزازات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
